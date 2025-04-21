@@ -2,7 +2,7 @@
 
 This repository contains the 3D CAD model of a wheel loader developed using SolidWorks. The model features a detailed chassis, articulated steering, hydraulic cylinders, and a functional loader bucket, designed for realism, engineering visualization, and educational use.
 
-![Wheel Loader CAD Model](Wheelloader.png)
+![Wheel Loader CAD Model](WheelLoader.png)
 - Functional loader bucket with hydraulic cylinders  
 - Detailed operator cabin and chassis  
 - Realistic wheel and tire assemblies  
